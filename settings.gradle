@@ -1,0 +1,2 @@
+rootProject.name = "HiltWithMvvM"
+include ':app'
